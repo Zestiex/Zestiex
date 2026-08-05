@@ -1,18 +1,23 @@
 # Hi, I'm Zestiex!
 
-- **Working on:** `Wutil` — a standalone, single-file employee management utility in Python (no external databases)
+**Currently Learning:** 
+> Python backend development. planning to polish python basics, get deeper into python backend, and then focus on front end languages such as TypeScript and then on more diffucltier languages such as C++ or C
 
-- **Learning:** Python backend development; building towards full-stack and expanding into other languages
+- **Currently focusing on:** `Wutil`
+> a standalone, single-file employee management utility written in Python (no external databases) 
 
-- **Tech Stack & Libraries:** Python (Pygame, Turtle), core software fundamentals
+- **Things you can ask me about:**
+```
+- Game design
+- tech hardware
+- team leadership
+- And games such as Minecraft and Roblox!
+```
 
-- **Ask me about:** Game design, tech hardware, and team leadership
 
-- **Collaboration:** Open to short-term contributions, code reviews, and project suggestions
-
-- **How to reach me:** Discord
-
-- **Fun fact:** I like cookies
+> [!NOTE]
+> - Python Liblaries i had worked with[^1]<br/>
+> - How to reach me[^2]
 
 <!--
 - 🔭 I’m currently working on ...
@@ -24,3 +29,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[^1]: Python {Pygame, Turtle and a litle bit of Disnake}
+[^2]: Via my discord Account -> zestiex.py
