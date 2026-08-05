@@ -1,10 +1,20 @@
-## Hi there 👋
+# Hi, I'm Zestiex!
+
+- **Working on:** `Wutil` — a standalone, single-file employee management utility in Python (no external databases)
+
+- **Learning:** Python backend development; building towards full-stack and expanding into other languages
+
+- **Tech Stack & Libraries:** Python (Pygame, Turtle), core software fundamentals
+
+- **Ask me about:** Game design, tech hardware, and team leadership
+
+- **Collaboration:** Open to short-term contributions, code reviews, and project suggestions
+
+- **How to reach me:** Discord
+
+- **Fun fact:** I like cookies
 
 <!--
-**Zestiex/Zestiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
