@@ -3,10 +3,10 @@
 **Currently Learning:** 
 > Python backend development. planning to polish python basics, get deeper into python backend, and then focus on front end languages such as TypeScript and then on more diffucltier languages such as C++ or C
 
-- **Currently focusing on:** `Wutil`
+**Currently focusing on:** `Wutil`
 > a standalone, single-file employee management utility written in Python (no external databases) 
 
-- **Things you can ask me about:**
+**Things you can ask me about:**
 ```
 - Game design
 - tech hardware
