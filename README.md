@@ -31,3 +31,6 @@
 -->
 [^1]: Python {Pygame, Turtle and a litle bit of Disnake}
 [^2]: Via my discord Account -> zestiex.py
+
+> [!IMPORTANT]
+> Im still working on my profile and it can look rougth around the edges right now!!!
