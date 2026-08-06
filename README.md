@@ -19,10 +19,4 @@ Python backend development. Planning to polish Python basics, dive deeper into b
 > [!IMPORTANT]
 > Profile is WIP.
 
-# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-[![](https://komarev.com/ghpvc/?username=Zestiex&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
