@@ -1,8 +1,5 @@
 # Hi, I'm Zestiex!
 
-> [!IMPORTANT]
-> This profile is a work in progress.
-
 ### Currently Learning
 Python backend development. Planning to polish Python basics, dive deeper into backend systems, and later expand into frontend tools like TypeScript and low-level languages like C/C++.
 
@@ -18,3 +15,6 @@ Python backend development. Planning to polish Python basics, dive deeper into b
 > [!NOTE]
 > - **Python Libraries:** Pygame, Turtle, Disnake
 > - **Contact:** Discord (`zestiex.py`)
+
+> [!IMPORTANT]
+> Profile is WIP.
